@@ -1,4 +1,4 @@
-# jbabb27.github.io
+# UW Flying Club
 
 * [2024 UW Flying Club N486ER Flights](2024_N486ER.html)
 
